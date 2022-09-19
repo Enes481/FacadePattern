@@ -1,0 +1,16 @@
+C:\Users\akin.karabulut\source\repos\Pierre de Fermat - Design Patterns\20220515_Lecture\02_Facade\bin\Debug\net5.0\02_Facade.exe
+C:\Users\akin.karabulut\source\repos\Pierre de Fermat - Design Patterns\20220515_Lecture\02_Facade\bin\Debug\net5.0\02_Facade.deps.json
+C:\Users\akin.karabulut\source\repos\Pierre de Fermat - Design Patterns\20220515_Lecture\02_Facade\bin\Debug\net5.0\02_Facade.runtimeconfig.json
+C:\Users\akin.karabulut\source\repos\Pierre de Fermat - Design Patterns\20220515_Lecture\02_Facade\bin\Debug\net5.0\02_Facade.runtimeconfig.dev.json
+C:\Users\akin.karabulut\source\repos\Pierre de Fermat - Design Patterns\20220515_Lecture\02_Facade\bin\Debug\net5.0\02_Facade.dll
+C:\Users\akin.karabulut\source\repos\Pierre de Fermat - Design Patterns\20220515_Lecture\02_Facade\bin\Debug\net5.0\ref\02_Facade.dll
+C:\Users\akin.karabulut\source\repos\Pierre de Fermat - Design Patterns\20220515_Lecture\02_Facade\bin\Debug\net5.0\02_Facade.pdb
+C:\Users\akin.karabulut\source\repos\Pierre de Fermat - Design Patterns\20220515_Lecture\02_Facade\obj\Debug\net5.0\02_Facade.csproj.AssemblyReference.cache
+C:\Users\akin.karabulut\source\repos\Pierre de Fermat - Design Patterns\20220515_Lecture\02_Facade\obj\Debug\net5.0\02_Facade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akin.karabulut\source\repos\Pierre de Fermat - Design Patterns\20220515_Lecture\02_Facade\obj\Debug\net5.0\02_Facade.AssemblyInfoInputs.cache
+C:\Users\akin.karabulut\source\repos\Pierre de Fermat - Design Patterns\20220515_Lecture\02_Facade\obj\Debug\net5.0\02_Facade.AssemblyInfo.cs
+C:\Users\akin.karabulut\source\repos\Pierre de Fermat - Design Patterns\20220515_Lecture\02_Facade\obj\Debug\net5.0\02_Facade.csproj.CoreCompileInputs.cache
+C:\Users\akin.karabulut\source\repos\Pierre de Fermat - Design Patterns\20220515_Lecture\02_Facade\obj\Debug\net5.0\02_Facade.dll
+C:\Users\akin.karabulut\source\repos\Pierre de Fermat - Design Patterns\20220515_Lecture\02_Facade\obj\Debug\net5.0\ref\02_Facade.dll
+C:\Users\akin.karabulut\source\repos\Pierre de Fermat - Design Patterns\20220515_Lecture\02_Facade\obj\Debug\net5.0\02_Facade.pdb
+C:\Users\akin.karabulut\source\repos\Pierre de Fermat - Design Patterns\20220515_Lecture\02_Facade\obj\Debug\net5.0\02_Facade.genruntimeconfig.cache
